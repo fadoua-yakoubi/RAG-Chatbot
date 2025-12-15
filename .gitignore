@@ -42,13 +42,7 @@ wheels/
 *.swo
 *~
 
-# Données et modèles
-data/*.csv
-data/*.txt
-data/*.pdf
-*.h5
-*.pkl
-*.model
+
 
 # Logs
 *.log
