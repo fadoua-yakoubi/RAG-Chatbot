@@ -306,9 +306,6 @@ Question + Contexte (dialogues) → LLM Groq → Réponse contextualisée
 
 
 
-## 👨‍💻 Auteur
-
-Développé dans le cadre d'un projet d'analyse de dialogues téléphoniques avec IA générative.
 
 
 
