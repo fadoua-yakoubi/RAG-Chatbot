@@ -1,0 +1,26 @@
+# Base de données
+psycopg[binary]==3.2.4
+pgvector==0.3.6
+
+# Traitement de données
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Embeddings (modèles gratuits)
+sentence-transformers==3.3.1
+torch>=2.5.0
+
+# API Groq (gratuit)
+groq==0.13.1
+
+# Interface utilisateur
+streamlit==1.40.2
+
+# Utilitaires
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Jupyter
+jupyter==1.1.1
+ipykernel==6.29.5
