@@ -314,3 +314,4 @@ Développé dans le cadre d'un projet d'analyse de dialogues téléphoniques ave
 
 ---
 
+<img width="1912" height="863" alt="image" src="https://github.com/user-attachments/assets/4c7dd716-d98c-45ed-8983-f258be2f028d" />
